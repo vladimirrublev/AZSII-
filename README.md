@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/12168e2f-509d-49d7-8994-72ddb6cefece)# AZSII
+# AZSII
 
 # Студент: Рублёв Владимир Сергеевич , группа: ББМО-02-23
 
