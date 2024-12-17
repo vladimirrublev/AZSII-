@@ -8,7 +8,7 @@
 
 ## Практическая работа 1 - [Практика1](https://github.com/vladimirrublev/AZSII-1-/blob/main/README.md)
 ## Практическая работа 2 - [Практика2](https://github.com/vladimirrublev/AZSII-2/tree/main?tab=readme-ov-file)
-## Практическая работа 3 - [Практика3]()
+## Практическая работа 3 - [Практика3](https://github.com/vladimirrublev/AZSII-3/blob/main/README.md)
 ## Практическая работа 4 - [Практика4]()
 ## Практическая работа 5 - [Практика5]()
 ## Практическая работа 6 - [Практика6]()
